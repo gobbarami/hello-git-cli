@@ -1,1 +1,2 @@
 First git
+Second from CLI #2
